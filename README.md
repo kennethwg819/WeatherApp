@@ -1,8 +1,6 @@
 #  WeatherApp
 WeatherApp is an iOS app for checking real-time weather and temperature at your city or any desired cities.
 
-*Some functions required to enable iPhone's GPS location*
-
 ## Credits
 Real-time weather information acquired from OpenWeather's API. 
 
