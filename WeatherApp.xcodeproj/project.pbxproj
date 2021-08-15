@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4512966526C920020067453C /* Screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4512966426C920020067453C /* Screenshot1.png */; };
+		4512966826C9200B0067453C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4512966726C9200B0067453C /* README.md */; };
 		456E38B326C90BCA0038E050 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 456E38B226C90BCA0038E050 /* Constants.swift */; };
 		AD38C6F6231E85FF0028FD48 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD38C6F5231E85FF0028FD48 /* WeatherManager.swift */; };
 		AD38C6F8231E8A2E0028FD48 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD38C6F7231E8A2E0028FD48 /* WeatherData.swift */; };
@@ -20,6 +22,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4512966426C920020067453C /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot1.png; sourceTree = "<group>"; };
+		4512966726C9200B0067453C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		456E38B226C90BCA0038E050 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		AD38C6F5231E85FF0028FD48 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		AD38C6F7231E8A2E0028FD48 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
@@ -45,9 +49,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4512966326C920020067453C /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				4512966426C920020067453C /* Screenshot1.png */,
+			);
+			path = Documentation;
+			sourceTree = "<group>";
+		};
 		ADAA27A4231BBFAF00365194 = {
 			isa = PBXGroup;
 			children = (
+				4512966726C9200B0067453C /* README.md */,
+				4512966326C920020067453C /* Documentation */,
 				ADAA27AF231BBFAF00365194 /* WeatherApp */,
 				ADAA27AE231BBFAF00365194 /* Products */,
 			);
@@ -162,6 +176,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADAA27BD231BBFB300365194 /* LaunchScreen.storyboard in Resources */,
+				4512966526C920020067453C /* Screenshot1.png in Resources */,
+				4512966826C9200B0067453C /* README.md in Resources */,
 				ADAA27BA231BBFB300365194 /* Assets.xcassets in Resources */,
 				ADAA27B8231BBFAF00365194 /* Main.storyboard in Resources */,
 			);

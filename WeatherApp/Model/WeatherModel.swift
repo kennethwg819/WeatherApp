@@ -1,9 +1,5 @@
-//
-//  WeatherModel.swift
-//  Clima
-//
-//  Created by Angela Yu on 03/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Modified by Kenneth Wong.
+//  Taguht by Angela Yu from App Brewery
 //
 
 import Foundation
