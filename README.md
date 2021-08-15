@@ -1,4 +1,4 @@
-![Screenshot](Documentation/Screenshot1.png width="100" height="100")
+![Screenshot](Documentation/Screenshot1.png)
 
 #  WeatherApp
 
