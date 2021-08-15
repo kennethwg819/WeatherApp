@@ -1,4 +1,4 @@
-![Title](Screenshot1.png)
+![Screenshot](Documentation/Screenshot1.png)
 
 #  WeatherApp
 
